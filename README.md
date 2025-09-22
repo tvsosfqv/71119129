@@ -1,12 +1,12 @@
 # Friendhosting 怎么样？Friendhosting 介绍与测评
 
-
-## Friendhosting 介绍
 Friendhosting（2009 年创立）提供从入门到进阶的 **VDS/VPS** 方案，覆盖三大产品线：
 - **Storage HDD VDS**：大容量 HDD，性价比高，适合备份、离线下载、归档等 I/O 压力中低的场景；
 - **Progressive SSD (NVMe) VDS**：NVMe SSD，随机读写与 IOPS 更强，适合数据库、建站、API 等对磁盘性能敏感的场景；
 - **High CPU VDS**：更高主频 + NVMe，适合编译、脚本密集计算、并发短任务等对 CPU 峰值敏感的场景。  
 当前促销：**Tester’s Day Sale 最高 5 折**（VPS / 虚拟主机均参与），**qaday25** 优惠码支持**首付折扣，最长 3 个月**。
+
+<img width="2586" height="1358" alt="image" src="https://github.com/user-attachments/assets/89c91a5e-0ff9-452f-80f7-8acacf309ebb" />
 
 ---
 
